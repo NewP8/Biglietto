@@ -1,0 +1,17 @@
+{
+  "metadata": [
+    {
+      "src": [
+        {
+          "src": "../Src",
+          "files": [
+            "**/*.csproj"
+          ]
+        }
+      ],
+      "dest": "api",
+      "outputFormat": "markdown",
+      "filter": "filterConfig.yml"
+    }
+  ]
+}

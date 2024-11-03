@@ -1,0 +1,44 @@
+### YamlMime:TableOfContent
+- name: Biglietto.Domain.Aggregates
+  href: Biglietto.Domain.Aggregates.md
+  items:
+  - name: Classes
+  - name: Ticket
+    href: Biglietto.Domain.Aggregates.Ticket.md
+  - name: Enums
+  - name: StatoTicket
+    href: Biglietto.Domain.Aggregates.StatoTicket.md
+- name: Biglietto.Domain.Events
+  href: Biglietto.Domain.Events.md
+  items:
+  - name: Classes
+  - name: TicketCreato
+    href: Biglietto.Domain.Events.TicketCreato.md
+- name: WebApplication.Commands
+  href: WebApplication.Commands.md
+  items:
+  - name: Classes
+  - name: CreaTicket
+    href: WebApplication.Commands.CreaTicket.md
+  - name: CreaTicketHandler
+    href: WebApplication.Commands.CreaTicketHandler.md
+- name: WebApplication.Controllers
+  href: WebApplication.Controllers.md
+  items:
+  - name: Classes
+  - name: HomeController
+    href: WebApplication.Controllers.HomeController.md
+  - name: TicketController
+    href: WebApplication.Controllers.TicketController.md
+- name: WebApplication.EventHandlers
+  href: WebApplication.EventHandlers.md
+  items:
+  - name: Classes
+  - name: TicketCreatoEventHandler
+    href: WebApplication.EventHandlers.TicketCreatoEventHandler.md
+- name: WebApplication.Models
+  href: WebApplication.Models.md
+  items:
+  - name: Classes
+  - name: ErrorViewModel
+    href: WebApplication.Models.ErrorViewModel.md
